@@ -6,12 +6,12 @@
 
 # [![satisfi logo](https://github.com/david-engelmann/david-engelmann/blob/9f9eaa33fe7d2a1f94c03532f876e5019f47c420/assets/logo%20satisfi.png)](https://satisfilabs.com/)
 
-# [![satisfi linkedin](https://github.com/david-engelmann/david-engelmann/blob/685aaa18f3d1ab154168aa41a8f2364f4b0eb320/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/company/satisfi-labs)
+# [![satisfi linkedin](https://github.com/david-engelmann/david-engelmann/blob/042ff398c8e5fa7cb5b623b27b02f96a9c4a25f6/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/company/satisfi-labs)
 
 <!-- Sometimes we live no particular way but our own -->
 <h3 align='center'>My Personal LinkedIn can be found by clicking on the LinkedIn Logo below!</h3>
 
-# [![personal linkedin](https://github.com/david-engelmann/david-engelmann/blob/685aaa18f3d1ab154168aa41a8f2364f4b0eb320/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/david-engelmann-217817110)
+# [![personal linkedin](https://github.com/david-engelmann/david-engelmann/blob/042ff398c8e5fa7cb5b623b27b02f96a9c4a25f6/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/david-engelmann-217817110)
 
 <h3 align='center'>Inspiration, Move Me Brightly</h3>
 <p align='center'>
