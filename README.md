@@ -14,7 +14,7 @@
 # [![personal linkedin](https://github.com/david-engelmann/david-engelmann/blob/042ff398c8e5fa7cb5b623b27b02f96a9c4a25f6/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/david-engelmann-217817110)
 
 <h3 align='center'>Inspiration, Move Me Brightly</h3>
-<p align='center'>
+<p>
 I like to play with code. I prefer open source and I try to help where I can. I primarily use python, julia and SQL. I'll use C or C++, and Javascript or Typescript when its called for. 
 <br>
 When I'm not coding, I'm outside.
