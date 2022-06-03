@@ -4,7 +4,7 @@
 <!-- Can't git no SATISFaction -->
 <h3 align='center'>Currently, I work at Satisfi Labs as an AI Software Developer<br>Please Check out our Website or LinkedIn to learn more about all the exciting things we are up to!</h3>
 
-# [![satisfi logo](https://github.com/david-engelmann/david-engelmann/blob/b3c7f217c989b725617c7407bb83443382e415d8/assets/SatisFi_Logo.svg)](https://satisfilabs.com/)
+# [![satisfi logo](https://github.com/david-engelmann/david-engelmann/blob/9f9eaa33fe7d2a1f94c03532f876e5019f47c420/assets/logo%20satisfi.png)](https://satisfilabs.com/)
 
 # [![satisfi linkedin](https://github.com/david-engelmann/david-engelmann/blob/685aaa18f3d1ab154168aa41a8f2364f4b0eb320/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/company/satisfi-labs)
 
