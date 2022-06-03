@@ -4,13 +4,13 @@
 <!-- Can't git no SATISFaction -->
 <h3 align='center'>Currently, I work at Satisfi Labs as an AI Software Developer<br>Please Check out our Website or LinkedIn to learn more about all the exciting things we are up to!</h3>
 
-# [![satisfi logo](assets/Satisfi_Logo.svg)](https://satisfilabs.com/)
+# [![satisfi logo](https://github.com/david-engelmann/david-engelmann/blob/b3c7f217c989b725617c7407bb83443382e415d8/assets/SatisFi_Logo.svg)](https://satisfilabs.com/)
 
-# [![satisfi linkedin](assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/company/satisfi-labs)
+# [![satisfi linkedin](https://github.com/david-engelmann/david-engelmann/blob/685aaa18f3d1ab154168aa41a8f2364f4b0eb320/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/company/satisfi-labs)
 
 <!-- Sometimes we live no particular way but our own -->
 <h3 align='center'>My Personal LinkedIn can be found by clicking on the LinkedIn Logo below!</h3>
-# [![satisfi linkedin](assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/david-engelmann-217817110)
+# [![satisfi linkedin](https://github.com/david-engelmann/david-engelmann/blob/685aaa18f3d1ab154168aa41a8f2364f4b0eb320/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/david-engelmann-217817110)
 <h3 align='center'>Inspiration, Move Me Brightly</h3>
 <p align='center'>
 I like to play with code. I prefer open source and I try to help where I can. I primarily use python, julia and SQL. I'll use C or C++, and Javascript or Typescript when its called for. 
