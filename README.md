@@ -2,7 +2,7 @@
 <h2 align='center'>Hello Fellow Humans! 👋<br>My Name is David Engelmann<br>I'm a Software Developer focused on Artifical Intelligence and Natural Language Processing</h2>
 <br>
 <!-- Can't git no SATISFaction -->
-<h3 align='center'>Currently, I work at Satisfi Labs as an AI Software Developer<br>Please Check out our Website or LinkedIn to learn more about all the exciting things we are up to!</h3>
+<h3>Currently, I work at Satisfi Labs as an AI Software Developer<br>Please Check out our Website or LinkedIn to learn more about all the exciting things we are up to!</h3>
 
 # [![satisfi logo](https://github.com/david-engelmann/david-engelmann/blob/9f9eaa33fe7d2a1f94c03532f876e5019f47c420/assets/logo%20satisfi.png)](https://satisfilabs.com/)
 
@@ -10,7 +10,9 @@
 
 <!-- Sometimes we live no particular way but our own -->
 <h3 align='center'>My Personal LinkedIn can be found by clicking on the LinkedIn Logo below!</h3>
-# [![satisfi linkedin](https://github.com/david-engelmann/david-engelmann/blob/685aaa18f3d1ab154168aa41a8f2364f4b0eb320/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/david-engelmann-217817110)
+
+# [![personal linkedin](https://github.com/david-engelmann/david-engelmann/blob/685aaa18f3d1ab154168aa41a8f2364f4b0eb320/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/david-engelmann-217817110)
+
 <h3 align='center'>Inspiration, Move Me Brightly</h3>
 <p align='center'>
 I like to play with code. I prefer open source and I try to help where I can. I primarily use python, julia and SQL. I'll use C or C++, and Javascript or Typescript when its called for. 
