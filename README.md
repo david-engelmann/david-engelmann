@@ -11,7 +11,9 @@ Satisfi Labs Website       |  Satisfi Labs LinkedIn
 <!-- Sometimes we live no particular way but our own -->
 <h3 align='center'>My Personal LinkedIn can be found by clicking on the LinkedIn Logo below!</h3>
 
-# [![personal linkedin](https://github.com/david-engelmann/david-engelmann/blob/042ff398c8e5fa7cb5b623b27b02f96a9c4a25f6/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/david-engelmann-217817110)
+Satisfi Labs Website       |
+:-------------------------:|
+[![personal linkedin](https://github.com/david-engelmann/david-engelmann/blob/042ff398c8e5fa7cb5b623b27b02f96a9c4a25f6/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/david-engelmann-217817110)
 
 <h3 align='center'>Inspiration, Move Me Brightly</h3>
 <p>
