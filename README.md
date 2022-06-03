@@ -25,7 +25,9 @@ Personal LinkedIn       |
 
 <h3 align='center'>Inspiration, Move Me Brightly</h3>
 <p>
-I like to play with code. I prefer open source and I try to help where I can. I primarily use python, julia and SQL. I'll use C or C++, and Javascript or Typescript when its called for. 
+I like to play with code. I prefer open source and I try to help where I can. 
+<br>  
+I primarily use python, julia and SQL. I'll use C or C++, and Javascript or Typescript when its called for. 
 <br>
 When I'm not coding, I'm outside.
 <br>
