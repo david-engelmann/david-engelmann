@@ -4,8 +4,10 @@
 <!-- Can't git no SATISFaction -->
 <h3>Currently, I work at Satisfi Labs as an AI Software Developer<br>Please Check out our Website or LinkedIn to learn more about all the exciting things we are up to!</h3>
 
+Satisfi Labs Website       |  Satisfi Labs LinkedIn
+:-------------------------:|:-------------------------:
 # [![satisfi logo](https://github.com/david-engelmann/david-engelmann/blob/9f9eaa33fe7d2a1f94c03532f876e5019f47c420/assets/logo%20satisfi.png)](https://satisfilabs.com/)
-
+|
 # [![satisfi linkedin](https://github.com/david-engelmann/david-engelmann/blob/042ff398c8e5fa7cb5b623b27b02f96a9c4a25f6/assets/LinkedIn_logo_initials.png)](https://www.linkedin.com/company/satisfi-labs)
 
 <!-- Sometimes we live no particular way but our own -->
