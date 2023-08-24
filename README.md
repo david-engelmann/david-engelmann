@@ -27,7 +27,7 @@ Personal LinkedIn       |
 <p>
 I like to play with code. I prefer open source and I try to help where I can. 
 <br>  
-I primarily use python, julia and SQL. I'll use C or C++, and Javascript or Typescript when its called for. 
+I primarily use python, julia and OCaml. I'll use C or C++, and Javascript or Typescript when its called for. 
 <br>
 When I'm not coding, I'm outside.
 <br>
