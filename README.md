@@ -10,8 +10,8 @@
 
 Building the systems language models need to do engineering. Sandboxed coding agents, multi-agent orchestrators, MCP servers, and the infrastructure that holds them up.
 
-[![Dusk](https://img.shields.io/badge/At-Dusk-8B5CF6?style=flat-square&labelColor=0D1117)](https://dusk.fm)
-[![Formerly](https://img.shields.io/badge/Formerly-Satisfi%20Labs-6B7280?style=flat-square&labelColor=0D1117)](https://satisfilabs.com)
+[![Dusk](https://img.shields.io/badge/At-Dusk-EC690D?style=flat-square&labelColor=0D1117)](https://dusk.fm)
+[![Formerly](https://img.shields.io/badge/Formerly-Satisfi%20Labs-FF3222?style=flat-square&labelColor=0D1117)](https://satisfilabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/david-engelmann-217817110)
 
 </div>
