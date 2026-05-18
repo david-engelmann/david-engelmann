@@ -6,9 +6,9 @@
 
 # David Engelmann
 
-**Software Engineer · AI · Agents · Automated Code Systems**
+**Senior Software Engineer · AI · Agents · Automated Code Systems**
 
-I build the systems that let language models do real engineering work — sandboxed coding agents, multi-agent orchestrators, MCP servers, and the infrastructure underneath all of it.
+Building the systems language models need to do engineering. Sandboxed coding agents, multi-agent orchestrators, MCP servers, and the infrastructure that holds them up.
 
 [![Dusk](https://img.shields.io/badge/At-Dusk-8B5CF6?style=flat-square&labelColor=0D1117)](https://dusk.fm)
 [![Formerly](https://img.shields.io/badge/Formerly-Satisfi%20Labs-6B7280?style=flat-square&labelColor=0D1117)](https://satisfilabs.com)
@@ -20,13 +20,11 @@ I build the systems that let language models do real engineering work — sandbo
 
 ### What I work on
 
-Currently at **[Dusk](https://dusk.fm)** — *your AI live entertainment director* — building the data and agent platform that powers it. Previously at **[Satisfi Labs](https://satisfilabs.com)**, working on conversational AI and NLP systems.
+Currently at [Dusk](https://dusk.fm), the AI live entertainment director. I lead work on the data and agent platform behind it. Before Dusk, I worked on conversational AI and NLP at [Satisfi Labs](https://satisfilabs.com).
 
-Most of my time goes to three overlapping areas:
-
-- **AI & Agents** — Designing reliable agent loops on top of LLMs. Tool design, MCP server work, retrieval, evaluation, and the unglamorous plumbing that turns a demo into something you can put in front of users.
-- **Automated Code Systems** — Hardened, sandboxed environments for AI coding agents to actually *run* in. Allowlisted egress, policy-brokered container access, supervisor SDKs, and reference solver / verifier / refiner loops. The goal: an agent that can safely write, test, and ship code without a human watching every keystroke.
-- **Developer Tooling** — Bridges between coding agents and real developer infrastructure: debuggers (DAP↔MCP), terminal automation, evidence pipelines for PRs, multi-agent workbenches. Things that close the loop between *generating* code and *shipping* it.
+- **AI agents.** Reliable agent loops on top of LLMs. Tool design, MCP servers, retrieval, evaluation, and the rest of the work that sits between a demo and something you'd actually ship.
+- **Automated code systems.** Hardened sandboxes for coding agents to run in. Allowlisted egress, policy-brokered container access, supervisor SDKs, and reference solver / verifier / refiner loops.
+- **Developer tooling.** Bridges between agents and the rest of an engineer's stack. Debuggers over DAP/MCP, terminal automation, PR evidence pipelines, multi-agent workbenches.
 
 ---
 
@@ -61,21 +59,6 @@ Most of my time goes to three overlapping areas:
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/david-engelmann">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=david-engelmann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/david-engelmann">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-engelmann&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
-### Beyond the terminal
-
-I prefer open source, and try to help where I can. Pinned repos below show a slice of what's currently public. When I'm not coding I'm outside. All of my toasters are analog.
+I prefer open source and try to help where I can. Pinned repos below for a current slice. Off the keyboard, I'm usually outside. All my toasters are analog.
 
 <sub><sup>Optimally, someone pays me to do analysis on Bob Dylan and Grateful Dead songs.</sup></sub>
