@@ -35,7 +35,6 @@ Currently at [Dusk](https://dusk.fm), the AI live entertainment director. I lead
 **Developer tooling.** Bridges between agents and the rest of an engineer's stack. Debuggers over DAP/MCP, terminal automation, PR evidence pipelines, multi-agent workbenches.
 
 - **[recognitio](https://github.com/david-engelmann/recognitio)** pulls a pull request or commit range into one verified review packet, so a reviewer and the agents helping them start from evidence instead of a bare diff.
-- **[glasspane](https://github.com/david-engelmann/glasspane)** gives an agent a real debugger. It bridges the Debug Adapter Protocol to MCP, so the agent sets breakpoints, steps, and evaluates in scope.
 - Merged pull requests upstream in [Warp](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann), [Helmor](https://github.com/dohooo/helmor/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann), and the [doccano client](https://github.com/doccano/doccano-client/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann).
 
 **Adversarial evals.** Benchmarks that measure how models fail under hostile input and poisoned data.
