@@ -32,33 +32,33 @@ At [Dusk](https://dusk.fm) I lead work on the data and agent&nbsp;platform.
 
 - **[maidan](https://github.com/david-engelmann/maidan)** is the shared workspace where AI agents and people work together. Channels and threads, tasks with one holder each, and review by someone other than the author. One repo holds every layer: a Rust server that speaks MCP and A2A, a web UI, a Helm chart, and SDKs in Python, TypeScript, Go, and Rust. Bring Claude Code, Codex, Cursor, or your own agent. Hosted at [maidan.world](https://maidan.world), with a [live demo](https://try.maidan.world) and [docs](https://docs.maidan.world).
 
-- **[peira](https://github.com/david-engelmann/peira)** is an AI safety benchmark for decision models. Every case runs twice, once clean and once under attack, and peira measures how often the attack flips a right answer. Results for more than 50 models are live at [peiratrial.dev](https://peiratrial.dev), and no model on the board is immune.
+- **[peira](https://github.com/david-engelmann/peira)** is an AI safety benchmark for decision models. Every case runs twice, once clean and once under attack, and peira measures how often the attack flips a right answer. Results for more than 50 models are live at [peiratrial.dev](https://peiratrial.dev), and no model on the board is&nbsp;immune.
 
-- **[atproto](https://github.com/david-engelmann/atproto)** is a typed OCaml client for the AT Protocol, the open protocol behind Bluesky. It resolves identities, reads and writes repositories, follows the firehose, and handles OAuth.<br>
+- **[atproto](https://github.com/david-engelmann/atproto)** is a typed OCaml client for the AT&nbsp;Protocol, the open protocol behind Bluesky. It resolves identities, reads and writes repositories, follows the firehose, and handles&nbsp;OAuth.<br>
   `opam install atproto`
 
 ### What I work on
 
 [Dusk](https://dusk.fm) is the AI live entertainment director, a platform for booking, managing, and promoting live entertainment. Before Dusk, I worked on conversational AI and NLP at [Satisfi&nbsp;Labs](https://satisfilabs.com). The same areas run through my open source work. Each row below links to&nbsp;examples.
 
-- **AI agents.** Reliable agent loops on top of LLMs. Tool design, MCP servers, retrieval, evaluation, and the rest of the work that sits between a demo and something you'd actually ship.<br>
-  [`maidan`](https://github.com/david-engelmann/maidan)&ensp;[`switchyard`](https://github.com/david-engelmann/switchyard)&ensp;[`dibs`](https://github.com/david-engelmann/dibs)&ensp;[`wayside`](https://github.com/david-engelmann/wayside)
+- **AI agents.** Reliable agent loops on top of LLMs. Tool design, MCP servers, retrieval, evaluation, and the rest of the work that sits between a demo and something you'd actually&nbsp;ship.<br>
+  [`maidan`](https://github.com/david-engelmann/maidan)&ensp;[`switchyard`](https://github.com/david-engelmann/switchyard)&ensp;[`dibs`](https://github.com/david-engelmann/dibs)&nbsp;&nbsp;[`wayside`](https://github.com/david-engelmann/wayside)
 
-- **Data and distributed systems.** The storage layer that agents and services depend on. Raft consensus, write-ahead logs, deterministic simulation testing, and DataFusion query engines over Delta Lake.<br>
-  [`simraft-kv`](https://github.com/david-engelmann/simraft-kv)&ensp;[`chronicle-lob`](https://github.com/david-engelmann/chronicle-lob)&ensp;[`verirun`](https://github.com/david-engelmann/verirun)
+- **Data and distributed systems.** The storage layer that agents and services depend on. Raft consensus, write-ahead logs, deterministic simulation testing, and DataFusion query engines over Delta&nbsp;Lake.<br>
+  [`simraft-kv`](https://github.com/david-engelmann/simraft-kv)&ensp;[`chronicle-lob`](https://github.com/david-engelmann/chronicle-lob)&nbsp;&nbsp;[`verirun`](https://github.com/david-engelmann/verirun)
 
 - **Product engineering.** The apps on top. React Native and Expo for iOS and Android, Next.js on the web, and GraphQL&nbsp;APIs&nbsp;in&nbsp;between.<br>
   [`dusk.fm`](https://dusk.fm)
 
-- **Automated code systems.** Hardened sandboxes for coding agents to run in. Allowlisted egress, policy-brokered container access, supervisor SDKs, and reference solver / verifier / refiner loops.<br>
-  [`portcullis`](https://github.com/david-engelmann/portcullis)&ensp;[`mayfly`](https://github.com/david-engelmann/mayfly)&ensp;[`deadbolt`](https://github.com/david-engelmann/deadbolt)&ensp;[`arvin`](https://github.com/david-engelmann/arvin)
+- **Automated code systems.** Hardened sandboxes for coding agents to run in. Allowlisted egress, policy-brokered container access, supervisor SDKs, and reference solver / verifier / refiner&nbsp;loops.<br>
+  [`portcullis`](https://github.com/david-engelmann/portcullis)&ensp;[`mayfly`](https://github.com/david-engelmann/mayfly)&ensp;[`deadbolt`](https://github.com/david-engelmann/deadbolt)&nbsp;&nbsp;[`arvin`](https://github.com/david-engelmann/arvin)
 
-- **Developer tooling.** Bridges between agents and the rest of an engineer's stack. Debuggers over DAP/MCP, terminal automation, PR evidence pipelines, multi-agent workbenches.<br>
+- **Developer tooling.** Bridges between agents and the rest of an engineer's stack. Debuggers over DAP/MCP, terminal automation, PR evidence pipelines, multi-agent&nbsp;workbenches.<br>
   [`recognitio`](https://github.com/david-engelmann/recognitio)<br>
-  16 merged pull requests upstream:&ensp;[`warp`](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)&ensp;[`helmor`](https://github.com/dohooo/helmor/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)&ensp;[`doccano-client`](https://github.com/doccano/doccano-client/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)
+  16 merged pull requests upstream:&ensp;[`warp`](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)&ensp;[`helmor`](https://github.com/dohooo/helmor/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)&nbsp;&nbsp;[`doccano-client`](https://github.com/doccano/doccano-client/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)
 
 - **Libraries.** Typed clients and Rust-backed Python packages. An OCaml client for the AT Protocol on opam, and PyO3 libraries on PyPI.<br>
-  [`atproto`](https://github.com/david-engelmann/atproto)&ensp;[`placekit`](https://github.com/david-engelmann/placekit)&ensp;[`youtube_stats`](https://github.com/beatgig/youtube_stats)&ensp;[`soundcloud_stats`](https://github.com/beatgig/soundcloud_stats)&ensp;[`meta_stats`](https://github.com/beatgig/meta_stats)
+  [`atproto`](https://github.com/david-engelmann/atproto)&ensp;[`placekit`](https://github.com/david-engelmann/placekit)&ensp;[`youtube_stats`](https://github.com/beatgig/youtube_stats)&ensp;[`soundcloud_stats`](https://github.com/beatgig/soundcloud_stats)&nbsp;&nbsp;[`meta_stats`](https://github.com/beatgig/meta_stats)
 
 - **Evaluation.** Benchmarks for how models fail under prompt injection and data&nbsp;poisoning.<br>
   [`peira`](https://github.com/david-engelmann/peira)&ensp;[`wyrd`](https://github.com/david-engelmann/wyrd)
@@ -72,10 +72,10 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
   <img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&labelColor=0D1117&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=0D1117&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-0095BA?style=flat-square&labelColor=0D1117&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&labelColor=0D1117&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&labelColor=0D1117&logo=ocaml&logoColor=white" alt="OCaml" />
-  <img src="https://img.shields.io/badge/Go-0095BA?style=flat-square&labelColor=0D1117&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&labelColor=0D1117&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Lua-6465C3?style=flat-square&labelColor=0D1117&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/C-708CAB?style=flat-square&labelColor=0D1117&logo=c&logoColor=white" alt="C" />
@@ -130,11 +130,11 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
   <img src="https://img.shields.io/badge/Arrow-0B5394?style=flat-square&labelColor=0D1117&logo=apachearrow&logoColor=white" alt="Arrow" />
   <img src="https://img.shields.io/badge/Parquet-138DEA?style=flat-square&labelColor=0D1117&logo=apacheparquet&logoColor=white" alt="Parquet" />
   <img src="https://img.shields.io/badge/Kafka-57606A?style=flat-square&labelColor=0D1117&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&labelColor=0D1117&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQLx-CE422B?style=flat-square&labelColor=0D1117&logo=rust&logoColor=white" alt="SQLx" />
   <img src="https://img.shields.io/badge/Raft-1F6FEB?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Raft" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&labelColor=0D1117&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Alembic" />
+  <img src="https://img.shields.io/badge/SQLx-CE422B?style=flat-square&labelColor=0D1117&logo=rust&logoColor=white" alt="SQLx" />
   <img src="https://img.shields.io/badge/Polars-0075FF?style=flat-square&labelColor=0D1117&logo=polars&logoColor=white" alt="Polars" />
   <img src="https://img.shields.io/badge/pandas-E70488?style=flat-square&labelColor=0D1117&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/SQLite-0F80CC?style=flat-square&labelColor=0D1117&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -207,10 +207,10 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
 <summary><sub>Skills as plain text</sub></summary>
 <br>
 
-<b>Languages:</b> Rust, Python, TypeScript, SQL, Bash, OCaml, Go, Swift, Lua, C, C++, C#, Julia<br>
+<b>Languages:</b> Rust, Python, TypeScript, Go, SQL, Bash, OCaml, Swift, Lua, C, C++, C#, Julia<br>
 <b>AI and agents:</b> MCP (Model Context Protocol), A2A (Agent2Agent protocol), ACP (Agent Client Protocol), LLM agents, OpenAI API, Anthropic API, Rig, Gemini API, Agent evals, RAG (retrieval-augmented generation), Vector search, Claude Code, pgvector, LiteLLM, Vercel AI SDK<br>
 <b>Backend and APIs:</b> Tokio, Axum, FastAPI, gRPC, GraphQL, REST APIs, Pydantic, Protobuf, Node.js, WebSocket, OpenAPI, PyO3, WebAssembly, Slack API, Stripe API<br>
-<b>Data:</b> PostgreSQL, Delta Lake, DataFusion, Arrow, Parquet, Kafka, Redis, SQLx, Raft, SQLAlchemy, Alembic, Polars, pandas, SQLite, PostGIS, S3, Typesense<br>
+<b>Data:</b> PostgreSQL, Delta Lake, DataFusion, Arrow, Parquet, Kafka, Raft, SQLAlchemy, Redis, Alembic, SQLx, Polars, pandas, SQLite, PostGIS, S3, Typesense<br>
 <b>Frontend and mobile:</b> React Native, Expo, EAS (Expo Application Services), React, Next.js, Tamagui, Vite, TanStack Query, Zustand, Storybook, Tauri, Leptos<br>
 <b>Infrastructure, CI/CD, and observability:</b> Docker, GitHub Actions, Kubernetes, Helm, Kustomize, Porter, AWS, Cloudflare Workers, Nix, Google Cloud, Firebase, Vercel, OpenTelemetry, tracing, Prometheus, Grafana, Loki, Tempo, Sentry, PostHog<br>
 <b>Testing and developer tools:</b> pytest, Playwright, Vitest, proptest, Deterministic simulation testing, TLA+, Kani, loom, cargo-fuzz, cargo-mutants, CLI tools, Ruff, uv, Poetry, Neovim, Warp
