@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="304" height="914" viewBox="0 0 304 914" role="img" font-family="system-ui, -apple-system, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif"><title>Skills. Languages: Rust, Python, TypeScript, Go, SQL, OCaml, Swift. AI and agents: MCP, A2A, ACP, LLM agents, Agent evals, RAG, pgvector, Anthropic API, OpenAI API. Frontend and mobile: React Native, Expo, React, Next.js, TanStack Query, Tamagui, Tauri. Backend and APIs: Tokio, Axum, FastAPI, GraphQL, gRPC, WebSocket, PyO3, WebAssembly. Data: PostgreSQL, Delta Lake, DataFusion, Arrow, Parquet, Kafka, Redis, Raft. Infrastructure and observability: Docker, Kubernetes, Helm, GitHub Actions, Cloudflare Workers, AWS, Google Cloud, OpenTelemetry, Grafana. Testing and verification: pytest, Playwright, proptest, Simulation testing, TLA+, Kani.</title><style>.c{fill:#151b23;stroke:#2a313c}.p{fill:#242b35}.t{fill:#e6edf3}.m{fill:#9198a1}.a{fill:#EC690D}.h{fill:#EC690D;fill-opacity:.16;stroke:#EC690D;stroke-opacity:.65}.ht{fill:#fff}@media (prefers-color-scheme:light){.c{fill:#f6f8fa;stroke:#d1d9e0}.p{fill:#eaeef2}.t{fill:#1f2328}.m{fill:#59636e}.a{fill:#D95F0A}.h{fill-opacity:.12;stroke:#D95F0A;stroke-opacity:.7}.ht{fill:#1f2328}}</style>
+<rect class="c" x="0.5" y="0.5" width="303" height="102" rx="10"/>
+<rect class="a" x="14" y="16.5" width="6" height="6" rx="1.5"/>
+<text class="m" x="27" y="23.3" font-size="10.5" font-weight="600" letter-spacing="0.9" textLength="73.0">LANGUAGES</text>
+<rect class="h" x="14.5" y="36.5" width="45" height="23" rx="6"/>
+<text class="ht" x="23" y="52.4" font-size="12.5" font-weight="600" textLength="28">Rust</text>
+<rect class="h" x="66.5" y="36.5" width="61" height="23" rx="6"/>
+<text class="ht" x="75" y="52.4" font-size="12.5" font-weight="600" textLength="44">Python</text>
+<rect class="h" x="134.5" y="36.5" width="84" height="23" rx="6"/>
+<text class="ht" x="143" y="52.4" font-size="12.5" font-weight="600" textLength="67">TypeScript</text>
+<rect class="p" x="14.5" y="65.5" width="34" height="23" rx="6"/>
+<text class="t" x="23" y="81.4" font-size="12.5" font-weight="500" textLength="17">Go</text>
+<rect class="p" x="55.5" y="65.5" width="42" height="23" rx="6"/>
+<text class="t" x="64" y="81.4" font-size="12.5" font-weight="500" textLength="25">SQL</text>
+<rect class="p" x="104.5" y="65.5" width="57" height="23" rx="6"/>
+<text class="t" x="113" y="81.4" font-size="12.5" font-weight="500" textLength="40">OCaml</text>
+<rect class="p" x="168.5" y="65.5" width="48" height="23" rx="6"/>
+<text class="t" x="177" y="81.4" font-size="12.5" font-weight="500" textLength="31">Swift</text>
+<rect class="c" x="0.5" y="111.5" width="303" height="131" rx="10"/>
+<rect class="a" x="14" y="127.5" width="6" height="6" rx="1.5"/>
+<text class="m" x="27" y="134.3" font-size="10.5" font-weight="600" letter-spacing="0.9" textLength="93.5">AI AND AGENTS</text>
+<rect class="p" x="14.5" y="147.5" width="45" height="23" rx="6"/>
+<text class="t" x="23" y="163.4" font-size="12.5" font-weight="500" textLength="28">MCP</text>
+<rect class="p" x="66.5" y="147.5" width="42" height="23" rx="6"/>
+<text class="t" x="75" y="163.4" font-size="12.5" font-weight="500" textLength="25">A2A</text>
+<rect class="p" x="115.5" y="147.5" width="42" height="23" rx="6"/>
+<text class="t" x="124" y="163.4" font-size="12.5" font-weight="500" textLength="25">ACP</text>
+<rect class="p" x="164.5" y="147.5" width="87" height="23" rx="6"/>
+<text class="t" x="173" y="163.4" font-size="12.5" font-weight="500" textLength="70">LLM agents</text>
+<rect class="p" x="14.5" y="176.5" width="87" height="23" rx="6"/>
+<text class="t" x="23" y="192.4" font-size="12.5" font-weight="500" textLength="70">Agent evals</text>
+<rect class="p" x="108.5" y="176.5" width="43" height="23" rx="6"/>
+<text class="t" x="117" y="192.4" font-size="12.5" font-weight="500" textLength="26">RAG</text>
+<rect class="p" x="158.5" y="176.5" width="71" height="23" rx="6"/>
+<text class="t" x="167" y="192.4" font-size="12.5" font-weight="500" textLength="54">pgvector</text>
+<rect class="p" x="14.5" y="205.5" width="100" height="23" rx="6"/>
+<text class="t" x="23" y="221.4" font-size="12.5" font-weight="500" textLength="83">Anthropic API</text>
+<rect class="p" x="121.5" y="205.5" width="85" height="23" rx="6"/>
+<text class="t" x="130" y="221.4" font-size="12.5" font-weight="500" textLength="68">OpenAI API</text>
+<rect class="c" x="0.5" y="251.5" width="303" height="102" rx="10"/>
+<rect class="a" x="14" y="267.5" width="6" height="6" rx="1.5"/>
+<text class="m" x="27" y="274.3" font-size="10.5" font-weight="600" letter-spacing="0.9" textLength="144.1">FRONTEND AND MOBILE</text>
+<rect class="p" x="14.5" y="287.5" width="93" height="23" rx="6"/>
+<text class="t" x="23" y="303.4" font-size="12.5" font-weight="500" textLength="76">React Native</text>
+<rect class="p" x="114.5" y="287.5" width="47" height="23" rx="6"/>
+<text class="t" x="123" y="303.4" font-size="12.5" font-weight="500" textLength="30">Expo</text>
+<rect class="p" x="168.5" y="287.5" width="51" height="23" rx="6"/>
+<text class="t" x="177" y="303.4" font-size="12.5" font-weight="500" textLength="34">React</text>
+<rect class="p" x="226.5" y="287.5" width="59" height="23" rx="6"/>
+<text class="t" x="235" y="303.4" font-size="12.5" font-weight="500" textLength="42">Next.js</text>
+<rect class="p" x="14.5" y="316.5" width="112" height="23" rx="6"/>
+<text class="t" x="23" y="332.4" font-size="12.5" font-weight="500" textLength="95">TanStack Query</text>
+<rect class="p" x="133.5" y="316.5" width="68" height="23" rx="6"/>
+<text class="t" x="142" y="332.4" font-size="12.5" font-weight="500" textLength="51">Tamagui</text>
+<rect class="p" x="208.5" y="316.5" width="47" height="23" rx="6"/>
+<text class="t" x="217" y="332.4" font-size="12.5" font-weight="500" textLength="30">Tauri</text>
+<rect class="c" x="0.5" y="362.5" width="303" height="131" rx="10"/>
+<rect class="a" x="14" y="378.5" width="6" height="6" rx="1.5"/>
+<text class="m" x="27" y="385.3" font-size="10.5" font-weight="600" letter-spacing="0.9" textLength="118.3">BACKEND AND APIS</text>
+<rect class="p" x="14.5" y="398.5" width="49" height="23" rx="6"/>
+<text class="t" x="23" y="414.4" font-size="12.5" font-weight="500" textLength="32">Tokio</text>
+<rect class="p" x="70.5" y="398.5" width="51" height="23" rx="6"/>
+<text class="t" x="79" y="414.4" font-size="12.5" font-weight="500" textLength="34">Axum</text>
+<rect class="p" x="128.5" y="398.5" width="63" height="23" rx="6"/>
+<text class="t" x="137" y="414.4" font-size="12.5" font-weight="500" textLength="46">FastAPI</text>
+<rect class="p" x="14.5" y="427.5" width="71" height="23" rx="6"/>
+<text class="t" x="23" y="443.4" font-size="12.5" font-weight="500" textLength="54">GraphQL</text>
+<rect class="p" x="92.5" y="427.5" width="50" height="23" rx="6"/>
+<text class="t" x="101" y="443.4" font-size="12.5" font-weight="500" textLength="33">gRPC</text>
+<rect class="p" x="149.5" y="427.5" width="85" height="23" rx="6"/>
+<text class="t" x="158" y="443.4" font-size="12.5" font-weight="500" textLength="68">WebSocket</text>
+<rect class="p" x="14.5" y="456.5" width="50" height="23" rx="6"/>
+<text class="t" x="23" y="472.4" font-size="12.5" font-weight="500" textLength="33">PyO3</text>
+<rect class="p" x="71.5" y="456.5" width="102" height="23" rx="6"/>
+<text class="t" x="80" y="472.4" font-size="12.5" font-weight="500" textLength="85">WebAssembly</text>
+<rect class="c" x="0.5" y="502.5" width="303" height="131" rx="10"/>
+<rect class="a" x="14" y="518.5" width="6" height="6" rx="1.5"/>
+<text class="m" x="27" y="525.3" font-size="10.5" font-weight="600" letter-spacing="0.9" textLength="30.3">DATA</text>
+<rect class="p" x="14.5" y="538.5" width="89" height="23" rx="6"/>
+<text class="t" x="23" y="554.4" font-size="12.5" font-weight="500" textLength="72">PostgreSQL</text>
+<rect class="p" x="110.5" y="538.5" width="80" height="23" rx="6"/>
+<text class="t" x="119" y="554.4" font-size="12.5" font-weight="500" textLength="63">Delta Lake</text>
+<rect class="p" x="14.5" y="567.5" width="85" height="23" rx="6"/>
+<text class="t" x="23" y="583.4" font-size="12.5" font-weight="500" textLength="68">DataFusion</text>
+<rect class="p" x="106.5" y="567.5" width="53" height="23" rx="6"/>
+<text class="t" x="115" y="583.4" font-size="12.5" font-weight="500" textLength="36">Arrow</text>
+<rect class="p" x="166.5" y="567.5" width="64" height="23" rx="6"/>
+<text class="t" x="175" y="583.4" font-size="12.5" font-weight="500" textLength="47">Parquet</text>
+<rect class="p" x="14.5" y="596.5" width="51" height="23" rx="6"/>
+<text class="t" x="23" y="612.4" font-size="12.5" font-weight="500" textLength="34">Kafka</text>
+<rect class="p" x="72.5" y="596.5" width="50" height="23" rx="6"/>
+<text class="t" x="81" y="612.4" font-size="12.5" font-weight="500" textLength="33">Redis</text>
+<rect class="p" x="129.5" y="596.5" width="42" height="23" rx="6"/>
+<text class="t" x="138" y="612.4" font-size="12.5" font-weight="500" textLength="25">Raft</text>
+<rect class="c" x="0.5" y="642.5" width="303" height="160" rx="10"/>
+<rect class="a" x="14" y="658.5" width="6" height="6" rx="1.5"/>
+<text class="m" x="27" y="665.3" font-size="10.5" font-weight="600" letter-spacing="0.9" textLength="108.3">INFRASTRUCTURE</text>
+<rect class="p" x="14.5" y="678.5" width="60" height="23" rx="6"/>
+<text class="t" x="23" y="694.4" font-size="12.5" font-weight="500" textLength="43">Docker</text>
+<rect class="p" x="81.5" y="678.5" width="86" height="23" rx="6"/>
+<text class="t" x="90" y="694.4" font-size="12.5" font-weight="500" textLength="69">Kubernetes</text>
+<rect class="p" x="174.5" y="678.5" width="48" height="23" rx="6"/>
+<text class="t" x="183" y="694.4" font-size="12.5" font-weight="500" textLength="31">Helm</text>
+<rect class="p" x="14.5" y="707.5" width="108" height="23" rx="6"/>
+<text class="t" x="23" y="723.4" font-size="12.5" font-weight="500" textLength="91">GitHub Actions</text>
+<rect class="p" x="129.5" y="707.5" width="132" height="23" rx="6"/>
+<text class="t" x="138" y="723.4" font-size="12.5" font-weight="500" textLength="115">Cloudflare Workers</text>
+<rect class="p" x="14.5" y="736.5" width="45" height="23" rx="6"/>
+<text class="t" x="23" y="752.4" font-size="12.5" font-weight="500" textLength="28">AWS</text>
+<rect class="p" x="66.5" y="736.5" width="98" height="23" rx="6"/>
+<text class="t" x="75" y="752.4" font-size="12.5" font-weight="500" textLength="81">Google Cloud</text>
+<rect class="p" x="14.5" y="765.5" width="108" height="23" rx="6"/>
+<text class="t" x="23" y="781.4" font-size="12.5" font-weight="500" textLength="91">OpenTelemetry</text>
+<rect class="p" x="129.5" y="765.5" width="65" height="23" rx="6"/>
+<text class="t" x="138" y="781.4" font-size="12.5" font-weight="500" textLength="48">Grafana</text>
+<rect class="c" x="0.5" y="811.5" width="303" height="102" rx="10"/>
+<rect class="a" x="14" y="827.5" width="6" height="6" rx="1.5"/>
+<text class="m" x="27" y="834.3" font-size="10.5" font-weight="600" letter-spacing="0.9" textLength="51.5">TESTING</text>
+<rect class="p" x="14.5" y="847.5" width="55" height="23" rx="6"/>
+<text class="t" x="23" y="863.4" font-size="12.5" font-weight="500" textLength="38">pytest</text>
+<rect class="p" x="76.5" y="847.5" width="81" height="23" rx="6"/>
+<text class="t" x="85" y="863.4" font-size="12.5" font-weight="500" textLength="64">Playwright</text>
+<rect class="p" x="164.5" y="847.5" width="68" height="23" rx="6"/>
+<text class="t" x="173" y="863.4" font-size="12.5" font-weight="500" textLength="51">proptest</text>
+<rect class="p" x="14.5" y="876.5" width="126" height="23" rx="6"/>
+<text class="t" x="23" y="892.4" font-size="12.5" font-weight="500" textLength="109">Simulation testing</text>
+<rect class="p" x="147.5" y="876.5" width="49" height="23" rx="6"/>
+<text class="t" x="156" y="892.4" font-size="12.5" font-weight="500" textLength="32">TLA+</text>
+<rect class="p" x="203.5" y="876.5" width="43" height="23" rx="6"/>
+<text class="t" x="212" y="892.4" font-size="12.5" font-weight="500" textLength="26">Kani</text>
+</svg>
