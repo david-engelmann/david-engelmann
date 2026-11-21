@@ -32,6 +32,9 @@ At [Dusk](https://dusk.fm) I lead work on the data and agent&nbsp;platform.
 **[atproto](https://github.com/david-engelmann/atproto)** is a typed OCaml client for the AT&nbsp;Protocol, the open protocol behind Bluesky. It resolves identities, reads and writes repositories, follows the firehose, and handles&nbsp;OAuth.<br>
 `opam install atproto`
 
+**[placekit](https://github.com/david-engelmann/placekit)** is a typed Python client for the current Google Places&nbsp;API, built on a Rust&nbsp;core. It searches by text and by location, reads place details, autocompletes, and fetches photos, with sync and async clients and prebuilt wheels for Linux, macOS, and&nbsp;Windows.<br>
+`pip install placekit`
+
 ### What I work on
 
 [Dusk](https://dusk.fm) is the AI live entertainment director, a platform for booking, managing, and promoting live entertainment. Before Dusk, I worked on conversational AI and NLP at [Satisfi&nbsp;Labs](https://satisfilabs.com). The same areas run through my open source work. Each row below links to&nbsp;examples.
