@@ -47,8 +47,7 @@ At [Dusk](https://dusk.fm) I lead work on the data and agent&nbsp;platform.
 - **Data and distributed systems.** The storage layer that agents and services depend on. Raft consensus, write-ahead logs, deterministic simulation testing, and DataFusion query engines over Delta&nbsp;Lake.<br>
   [`simraft-kv`](https://github.com/david-engelmann/simraft-kv)&ensp;[`chronicle-lob`](https://github.com/david-engelmann/chronicle-lob)&ensp;[`verirun`](https://github.com/david-engelmann/verirun)
 
-- **Product engineering.** The apps on top. React&nbsp;Native and Expo for iOS and Android, Next.js on the web, and GraphQL&nbsp;APIs&nbsp;in&nbsp;between.<br>
-  [`dusk.fm`](https://dusk.fm)
+- **Product engineering.** The apps on top. React&nbsp;Native and Expo for iOS and Android, Next.js on the web, and GraphQL&nbsp;APIs&nbsp;in&nbsp;between.
 
 - **Automated code systems.** Hardened sandboxes for coding agents to run in. Allowlisted egress, policy-brokered container access, supervisor SDKs, and reference solver / verifier / refiner&nbsp;loops.<br>
   [`portcullis`](https://github.com/david-engelmann/portcullis)&ensp;[`mayfly`](https://github.com/david-engelmann/mayfly)&ensp;[`deadbolt`](https://github.com/david-engelmann/deadbolt)&nbsp;&nbsp;[`arvin`](https://github.com/david-engelmann/arvin)
