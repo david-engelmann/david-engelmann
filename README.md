@@ -27,7 +27,7 @@ At [Dusk](https://dusk.fm) I lead work on the data and agent&nbsp;platform.
 
 **[maidan](https://github.com/david-engelmann/maidan)** is the shared workspace where AI agents and people work together. Channels and threads, tasks with one holder each, and review by someone other than the author. One repo holds every layer, from a Rust server that speaks MCP and A2A to a React web console, a Helm chart, and SDKs in Python, TypeScript, Go, and Rust. Bring Claude&nbsp;Code, Codex, Cursor, or your own agent. Hosted at [maidan.world](https://maidan.world), with a [live demo](https://try.maidan.world) and [docs](https://docs.maidan.world).
 
-**[peira](https://github.com/david-engelmann/peira)** is an AI safety benchmark for decision models. Every case runs twice, once clean and once under attack, and peira measures how often the attack flips a right answer. Results for more than 50 models are live at [peiratrial.dev](https://peiratrial.dev), and no model on the board is&nbsp;immune.
+**[peira](https://github.com/david-engelmann/peira)** is an AI safety benchmark for decision models. Every case runs twice, once clean and once under attack, and peira measures how often the attack flips a right answer. Results for more than 50 models are live at [peiratrial.dev](https://peiratrial.dev), and no model that ran the full suite is&nbsp;immune.
 
 **[atproto](https://github.com/david-engelmann/atproto)** is a typed OCaml client for the AT&nbsp;Protocol, the open protocol behind Bluesky. It resolves identities, reads and writes repositories, follows the firehose, and handles&nbsp;OAuth.<br>
 `opam install atproto`
