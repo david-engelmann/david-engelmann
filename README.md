@@ -91,17 +91,17 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
   <img src="https://img.shields.io/badge/A2A-4285F4?style=flat-square&labelColor=0D1117&logo=google&logoColor=white" alt="A2A (Agent2Agent protocol)" />
   <img src="https://img.shields.io/badge/ACP-6366F1?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="ACP (Agent Client Protocol)" />
   <img src="https://img.shields.io/badge/LLM%20agents-7C3AED?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="LLM agents" />
+  <img src="https://img.shields.io/badge/Agent%20evals-B45309?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Agent evals" />
   <img src="https://img.shields.io/badge/OpenAI%20API-57606A?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="OpenAI API" />
   <img src="https://img.shields.io/badge/Anthropic%20API-D97757?style=flat-square&labelColor=0D1117&logo=anthropic&logoColor=white" alt="Anthropic API" />
-  <img src="https://img.shields.io/badge/Rig-CE422B?style=flat-square&labelColor=0D1117&logo=rust&logoColor=white" alt="Rig" />
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&labelColor=0D1117&logo=googlegemini&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Agent%20evals-B45309?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Agent evals" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="RAG (retrieval-augmented generation)" />
   <img src="https://img.shields.io/badge/Vector%20search-0F766E?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Vector search" />
+  <img src="https://img.shields.io/badge/Rig-CE422B?style=flat-square&labelColor=0D1117&logo=rust&logoColor=white" alt="Rig" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&labelColor=0D1117&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=white" alt="pgvector" />
   <img src="https://img.shields.io/badge/LiteLLM-0C92CE?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="LiteLLM" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&labelColor=0D1117&logo=googlegemini&logoColor=white" alt="Gemini API" />
   <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-57606A?style=flat-square&labelColor=0D1117&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="RAG (retrieval-augmented generation)" />
 </p>
 
 <p>
@@ -109,18 +109,18 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
   <img src="https://img.shields.io/badge/Tokio-CE422B?style=flat-square&labelColor=0D1117&logo=rust&logoColor=white" alt="Tokio" />
   <img src="https://img.shields.io/badge/Axum-CE422B?style=flat-square&labelColor=0D1117&logo=rust&logoColor=white" alt="Axum" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&labelColor=0D1117&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="gRPC" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&labelColor=0D1117&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/REST%20APIs-57606A?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="gRPC" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&labelColor=0D1117&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Protobuf" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&labelColor=0D1117&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/WebSocket-57606A?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&labelColor=0D1117&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-  <img src="https://img.shields.io/badge/PyO3-3776AB?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" alt="PyO3" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&labelColor=0D1117&logo=webassembly&logoColor=white" alt="WebAssembly" />
-  <img src="https://img.shields.io/badge/Slack%20API-7C3085?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Slack API" />
+  <img src="https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Protobuf" />
+  <img src="https://img.shields.io/badge/PyO3-3776AB?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" alt="PyO3" />
+  <img src="https://img.shields.io/badge/REST%20APIs-57606A?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/WebSocket-57606A?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&labelColor=0D1117&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&labelColor=0D1117&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
   <img src="https://img.shields.io/badge/Stripe%20API-635BFF?style=flat-square&labelColor=0D1117&logo=stripe&logoColor=white" alt="Stripe API" />
+  <img src="https://img.shields.io/badge/Slack%20API-7C3085?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Slack API" />
 </p>
 
 <p>
@@ -129,19 +129,19 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
   <img src="https://img.shields.io/badge/Delta%20Lake-0095BA?style=flat-square&labelColor=0D1117&logo=databricks&logoColor=white" alt="Delta Lake" />
   <img src="https://img.shields.io/badge/DataFusion-E26300?style=flat-square&labelColor=0D1117&logo=apache&logoColor=white" alt="DataFusion" />
   <img src="https://img.shields.io/badge/Arrow-0B5394?style=flat-square&labelColor=0D1117&logo=apachearrow&logoColor=white" alt="Arrow" />
-  <img src="https://img.shields.io/badge/Parquet-138DEA?style=flat-square&labelColor=0D1117&logo=apacheparquet&logoColor=white" alt="Parquet" />
-  <img src="https://img.shields.io/badge/Kafka-57606A?style=flat-square&labelColor=0D1117&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Raft-1F6FEB?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Raft" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&labelColor=0D1117&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Alembic" />
   <img src="https://img.shields.io/badge/SQLx-CE422B?style=flat-square&labelColor=0D1117&logo=rust&logoColor=white" alt="SQLx" />
-  <img src="https://img.shields.io/badge/Polars-0075FF?style=flat-square&labelColor=0D1117&logo=polars&logoColor=white" alt="Polars" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&labelColor=0D1117&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Kafka-57606A?style=flat-square&labelColor=0D1117&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Parquet-138DEA?style=flat-square&labelColor=0D1117&logo=apacheparquet&logoColor=white" alt="Parquet" />
+  <img src="https://img.shields.io/badge/Typesense-D52B88?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Typesense" />
+  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Alembic" />
   <img src="https://img.shields.io/badge/pandas-E70488?style=flat-square&labelColor=0D1117&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/SQLite-0F80CC?style=flat-square&labelColor=0D1117&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Polars-0075FF?style=flat-square&labelColor=0D1117&logo=polars&logoColor=white" alt="Polars" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=white" alt="PostGIS" />
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="S3" />
-  <img src="https://img.shields.io/badge/Typesense-D52B88?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Typesense" />
 </p>
 
 <p>
@@ -149,15 +149,15 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
   <img src="https://img.shields.io/badge/React%20Native-087EA4?style=flat-square&labelColor=0D1117&logo=react&logoColor=white" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-57606A?style=flat-square&labelColor=0D1117&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/EAS-57606A?style=flat-square&labelColor=0D1117&logo=expo&logoColor=white" alt="EAS (Expo Application Services)" />
-  <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&labelColor=0D1117&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-57606A?style=flat-square&labelColor=0D1117&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tamagui-EC4899?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Tamagui" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&labelColor=0D1117&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&labelColor=0D1117&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&labelColor=0D1117&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&labelColor=0D1117&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Next.js-57606A?style=flat-square&labelColor=0D1117&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Zustand-8A5A2B?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&labelColor=0D1117&logo=storybook&logoColor=white" alt="Storybook" />
-  <img src="https://img.shields.io/badge/Tauri-1B97A3?style=flat-square&labelColor=0D1117&logo=tauri&logoColor=white" alt="Tauri" />
   <img src="https://img.shields.io/badge/Leptos-EF3939?style=flat-square&labelColor=0D1117&logo=leptos&logoColor=white" alt="Leptos" />
+  <img src="https://img.shields.io/badge/Tauri-1B97A3?style=flat-square&labelColor=0D1117&logo=tauri&logoColor=white" alt="Tauri" />
 </p>
 
 <p>
@@ -165,11 +165,11 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=0D1117&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&labelColor=0D1117&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&labelColor=0D1117&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Helm-555EEC?style=flat-square&labelColor=0D1117&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&labelColor=0D1117&logo=kubernetes&logoColor=white" alt="Kustomize" />
   <img src="https://img.shields.io/badge/Porter-5B5BD6?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="Porter" />
-  <img src="https://img.shields.io/badge/AWS-C57600?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Cloudflare%20Workers-DA690C?style=flat-square&labelColor=0D1117&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/Helm-555EEC?style=flat-square&labelColor=0D1117&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/AWS-C57600?style=flat-square&labelColor=0D1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Nix-5277C3?style=flat-square&labelColor=0D1117&logo=nixos&logoColor=white" alt="Nix" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&labelColor=0D1117&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&labelColor=0D1117&logo=firebase&logoColor=white" alt="Firebase" />
@@ -177,9 +177,9 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
   <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&labelColor=0D1117&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/tracing-CE422B?style=flat-square&labelColor=0D1117&logo=rust&logoColor=white" alt="tracing" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&labelColor=0D1117&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&labelColor=0D1117&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&labelColor=0D1117&logo=grafana&logoColor=white" alt="Loki" />
   <img src="https://img.shields.io/badge/Tempo-F46800?style=flat-square&labelColor=0D1117&logo=grafana&logoColor=white" alt="Tempo" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&labelColor=0D1117&logo=grafana&logoColor=white" alt="Loki" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&labelColor=0D1117&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Sentry-6C5FC7?style=flat-square&labelColor=0D1117&logo=sentry&logoColor=white" alt="Sentry" />
   <img src="https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&labelColor=0D1117&logo=posthog&logoColor=white" alt="PostHog" />
 </p>
@@ -209,11 +209,11 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
 <br>
 
 <b>Languages:</b> Rust, Python, TypeScript, Go, SQL, Bash, OCaml, Swift, Lua, C, C++, C#, Julia<br>
-<b>AI and agents:</b> MCP (Model Context Protocol), A2A (Agent2Agent protocol), ACP (Agent Client Protocol), LLM agents, OpenAI API, Anthropic API, Rig, Gemini API, Agent evals, RAG (retrieval-augmented generation), Vector search, Claude Code, pgvector, LiteLLM, Vercel AI SDK<br>
-<b>Backend and APIs:</b> Tokio, Axum, FastAPI, gRPC, GraphQL, REST APIs, Pydantic, Protobuf, Node.js, WebSocket, OpenAPI, PyO3, WebAssembly, Slack API, Stripe API<br>
-<b>Data:</b> PostgreSQL, Delta Lake, DataFusion, Arrow, Parquet, Kafka, Raft, SQLAlchemy, Redis, Alembic, SQLx, Polars, pandas, SQLite, PostGIS, S3, Typesense<br>
-<b>Frontend and mobile:</b> React Native, Expo, EAS (Expo Application Services), React, Next.js, Tamagui, Vite, TanStack Query, Zustand, Storybook, Tauri, Leptos<br>
-<b>Infrastructure, CI/CD, and observability:</b> Docker, GitHub Actions, Kubernetes, Helm, Kustomize, Porter, AWS, Cloudflare Workers, Nix, Google Cloud, Firebase, Vercel, OpenTelemetry, tracing, Prometheus, Grafana, Loki, Tempo, Sentry, PostHog<br>
+<b>AI and agents:</b> MCP (Model Context Protocol), A2A (Agent2Agent protocol), ACP (Agent Client Protocol), LLM agents, Agent evals, OpenAI API, Anthropic API, Vector search, Rig, Claude Code, pgvector, LiteLLM, Gemini API, Vercel AI SDK, RAG (retrieval-augmented generation)<br>
+<b>Backend and APIs:</b> Tokio, Axum, FastAPI, GraphQL, gRPC, Pydantic, WebAssembly, Protobuf, PyO3, REST APIs, WebSocket, Node.js, OpenAPI, Stripe API, Slack API<br>
+<b>Data:</b> PostgreSQL, Delta Lake, DataFusion, Arrow, Raft, SQLx, Redis, SQLAlchemy, Kafka, Parquet, Typesense, Alembic, pandas, SQLite, Polars, PostGIS, S3<br>
+<b>Frontend and mobile:</b> React Native, Expo, EAS (Expo Application Services), Tamagui, React, TanStack Query, Vite, Next.js, Zustand, Storybook, Leptos, Tauri<br>
+<b>Infrastructure, CI/CD, and observability:</b> Docker, GitHub Actions, Kubernetes, Kustomize, Porter, Cloudflare Workers, Helm, AWS, Nix, Google Cloud, Firebase, Vercel, OpenTelemetry, tracing, Prometheus, Tempo, Loki, Grafana, Sentry, PostHog<br>
 <b>Testing and developer tools:</b> pytest, Playwright, Vitest, proptest, Deterministic simulation testing, TLA+, Kani, loom, cargo-fuzz, cargo-mutants, CLI tools, Ruff, uv, Poetry, Neovim, Warp
 
 </details>
