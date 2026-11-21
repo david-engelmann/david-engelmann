@@ -30,7 +30,7 @@ At [Dusk](https://dusk.fm) I lead work on the data and agent&nbsp;platform.
   <a href="https://peiratrial.dev"><img src="./assets/peira-board.png" alt="The peira results board: Decision models, measured under attack" width="400" /></a>
 </p>
 
-- **[maidan](https://github.com/david-engelmann/maidan)** is the shared workspace where AI agents and people work together. Channels and threads, tasks with one holder each, and review by someone other than the author. One repo holds every layer: a Rust server that speaks MCP and A2A, a web UI, a Helm chart, and SDKs in Python, TypeScript, Go, and Rust. Bring Claude Code, Codex, Cursor, or your own agent. Hosted at [maidan.world](https://maidan.world), with a [live demo](https://try.maidan.world) and [docs](https://docs.maidan.world).
+- **[maidan](https://github.com/david-engelmann/maidan)** is the shared workspace where AI agents and people work together. Channels and threads, tasks with one holder each, and review by someone other than the author. One repo holds every layer: a Rust server that speaks MCP and A2A, a web UI, a Helm chart, and SDKs in Python, TypeScript, Go, and Rust. Bring Claude&nbsp;Code, Codex, Cursor, or your own agent. Hosted at [maidan.world](https://maidan.world), with a [live demo](https://try.maidan.world) and [docs](https://docs.maidan.world).
 
 - **[peira](https://github.com/david-engelmann/peira)** is an AI safety benchmark for decision models. Every case runs twice, once clean and once under attack, and peira measures how often the attack flips a right answer. Results for more than 50 models are live at [peiratrial.dev](https://peiratrial.dev), and no model on the board is&nbsp;immune.
 
@@ -45,9 +45,9 @@ At [Dusk](https://dusk.fm) I lead work on the data and agent&nbsp;platform.
   [`maidan`](https://github.com/david-engelmann/maidan)&ensp;[`switchyard`](https://github.com/david-engelmann/switchyard)&ensp;[`dibs`](https://github.com/david-engelmann/dibs)&nbsp;&nbsp;[`wayside`](https://github.com/david-engelmann/wayside)
 
 - **Data and distributed systems.** The storage layer that agents and services depend on. Raft consensus, write-ahead logs, deterministic simulation testing, and DataFusion query engines over Delta&nbsp;Lake.<br>
-  [`simraft-kv`](https://github.com/david-engelmann/simraft-kv)&ensp;[`chronicle-lob`](https://github.com/david-engelmann/chronicle-lob)&nbsp;&nbsp;[`verirun`](https://github.com/david-engelmann/verirun)
+  [`simraft-kv`](https://github.com/david-engelmann/simraft-kv)&ensp;[`chronicle-lob`](https://github.com/david-engelmann/chronicle-lob)&ensp;[`verirun`](https://github.com/david-engelmann/verirun)
 
-- **Product engineering.** The apps on top. React Native and Expo for iOS and Android, Next.js on the web, and GraphQL&nbsp;APIs&nbsp;in&nbsp;between.<br>
+- **Product engineering.** The apps on top. React&nbsp;Native and Expo for iOS and Android, Next.js on the web, and GraphQL&nbsp;APIs&nbsp;in&nbsp;between.<br>
   [`dusk.fm`](https://dusk.fm)
 
 - **Automated code systems.** Hardened sandboxes for coding agents to run in. Allowlisted egress, policy-brokered container access, supervisor SDKs, and reference solver / verifier / refiner&nbsp;loops.<br>
@@ -55,9 +55,10 @@ At [Dusk](https://dusk.fm) I lead work on the data and agent&nbsp;platform.
 
 - **Developer tooling.** Bridges between agents and the rest of an engineer's stack. Debuggers over DAP/MCP, terminal automation, PR evidence pipelines, multi-agent&nbsp;workbenches.<br>
   [`recognitio`](https://github.com/david-engelmann/recognitio)<br>
-  16 merged pull requests upstream:&ensp;[`warp`](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)&ensp;[`helmor`](https://github.com/dohooo/helmor/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)&nbsp;&nbsp;[`doccano-client`](https://github.com/doccano/doccano-client/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)
+  16 merged pull requests upstream:<br>
+  [`warp`](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)&ensp;[`helmor`](https://github.com/dohooo/helmor/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)&ensp;[`doccano-client`](https://github.com/doccano/doccano-client/pulls?q=is%3Apr+is%3Amerged+author%3Adavid-engelmann)
 
-- **Libraries.** Typed clients and Rust-backed Python packages. An OCaml client for the AT Protocol on opam, and PyO3 libraries on PyPI.<br>
+- **Libraries.** Typed clients and Rust-backed Python packages. An OCaml client for the AT&nbsp;Protocol on opam, and PyO3 libraries on&nbsp;PyPI.<br>
   [`atproto`](https://github.com/david-engelmann/atproto)&ensp;[`placekit`](https://github.com/david-engelmann/placekit)&ensp;[`youtube_stats`](https://github.com/beatgig/youtube_stats)&ensp;[`soundcloud_stats`](https://github.com/beatgig/soundcloud_stats)&nbsp;&nbsp;[`meta_stats`](https://github.com/beatgig/meta_stats)
 
 - **Evaluation.** Benchmarks for how models fail under prompt injection and data&nbsp;poisoning.<br>
@@ -219,6 +220,6 @@ Rust, Python, and TypeScript are my daily languages. Everything I work with is g
 
 ---
 
-I prefer open source and try to help where I can. Pinned repos below for a current slice. Off the keyboard, I'm usually outside. All my toasters are analog.
+I prefer open source and try to help where I can. Pinned repos below for a current slice. Off the keyboard, I'm usually outside. All my toasters are&nbsp;analog.
 
 <sub><sup>Optimally, someone pays me to do analysis on Bob Dylan and Grateful&nbsp;Dead&nbsp;songs.</sup></sub>
