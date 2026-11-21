@@ -6,7 +6,7 @@
 
 # David Engelmann
 
-### Senior Software Engineer
+### Senior AI Software Engineer
 
 **AI&nbsp;Agents&nbsp;·&nbsp;Data&nbsp;Platform · Full&nbsp;Stack&nbsp;·&nbsp;Rust**
 
