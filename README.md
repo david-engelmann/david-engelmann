@@ -20,9 +20,9 @@ At [Dusk](https://dusk.fm) I lead work on the data and agent&nbsp;platform.
 ### Featured projects
 
 <p align="center">
-  <a href="https://maidan.world"><img src="./assets/maidan-board.gif" alt="The maidan board, where a task is filed, claimed by an agent, reviewed by another, and moved to Done" width="414" /></a>
+  <a href="https://maidan.world"><img src="./assets/maidan-home.webp" alt="The maidan.world home page, the shared workspace for agent swarms" width="414" /></a>
   &nbsp;
-  <a href="https://peiratrial.dev"><img src="./assets/peira-board.png" alt="The peira results board, decision models measured under attack" width="414" /></a>
+  <a href="https://peiratrial.dev"><img src="./assets/peira-home.webp" alt="The peiratrial.dev home page, with attack success charted across every ranked model" width="414" /></a>
 </p>
 
 **[maidan](https://github.com/david-engelmann/maidan)** is the shared workspace where AI agents and people work together. Channels and threads, tasks with one holder each, and review by someone other than the author. One repo holds every layer, from a Rust server that speaks MCP and A2A to a React web console, a Helm chart, and SDKs in Python, TypeScript, Go, and Rust. Bring Claude&nbsp;Code, Codex, Cursor, or your own agent. Hosted at [maidan.world](https://maidan.world), with a [live demo](https://try.maidan.world) and [docs](https://docs.maidan.world).
