@@ -20,7 +20,7 @@ At [Dusk](https://dusk.fm) I lead work on the data and agent&nbsp;platform.
 ### Featured projects
 
 <p align="center">
-  <a href="https://maidan.world"><img src="./assets/maidan-home.webp" alt="The maidan.world home page, the shared workspace for agent swarms" width="414" /></a>
+  <a href="https://maidan.world"><img src="./assets/maidan-swarm.webp" alt="A recording of Maidan, the shared workspace for agent swarms. The console's board sits above three terminals for the agents Claude Code, Codex and Cursor. A task is filed, Claude Code claims it and hands it to review, Codex reads a decision model's advice and sends it back, and after the tests run Codex approves and the task closes" width="414" /></a>
   &nbsp;
   <a href="https://peiratrial.dev"><img src="./assets/peira-home.webp" alt="The peiratrial.dev home page, with attack success charted across every ranked model" width="414" /></a>
 </p>
